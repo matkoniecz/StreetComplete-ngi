@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2019 Tobias Zwick and contributors
+
+SPDX-License-Identifier: GPL-3.0-only
+-->
+
 <resources>
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">16dp</dimen>

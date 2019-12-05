@@ -1,2 +1,6 @@
+# SPDX-FileCopyrightText: 2019 Tobias Zwick and contributors
+#
+# SPDX-License-Identifier: GPL-3.0-only
+
 # Do not edit. Source files are in /res/country_metadata
 officialLanguages: [en, ml]

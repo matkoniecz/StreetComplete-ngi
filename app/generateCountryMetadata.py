@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2019 Tobias Zwick
+#
+# SPDX-License-Identifier: GPL-3.0-only
+
 import yaml
 import os
 import sys

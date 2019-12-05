@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2019 Tobias Zwick and contributors
+#
+# SPDX-License-Identifier: GPL-3.0-only
+
 # for online testing (e.g. Tangram Play)
 #import:
 #    - https://raw.githubusercontent.com/ENT8R/streetcomplete-mapstyle/master/global.yaml

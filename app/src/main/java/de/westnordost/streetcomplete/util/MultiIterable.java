@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2019 Tobias Zwick and contributors
+//
+// SPDX-License-Identifier: GPL-3.0-only
+
 package de.westnordost.streetcomplete.util;
 
 import androidx.annotation.NonNull;
@@ -79,5 +83,3 @@ public class MultiIterable<T> implements Iterable<T>
 		}
 	}
 }
-
-

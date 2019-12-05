@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2019 Tobias Zwick and contributors
+#
+# SPDX-License-Identifier: GPL-3.0-only
+
 # Syntax for the abbreviations is regex, but:
 # - case is ignored for pattern
 # - an optional "." is assumed at the end of each abbreviation

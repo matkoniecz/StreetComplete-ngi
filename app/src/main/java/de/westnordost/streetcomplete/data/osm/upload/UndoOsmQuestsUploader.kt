@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2019 Tobias Zwick and contributors
+//
+// SPDX-License-Identifier: GPL-3.0-only
+
 package de.westnordost.streetcomplete.data.osm.upload
 
 import android.util.Log
@@ -55,4 +59,3 @@ class UndoOsmQuestsUploader @Inject constructor(
 
 private fun UndoOsmQuest.toLogString() =
     type.javaClass.simpleName + " for " + elementType.name.toLowerCase(Locale.US) + " #" + elementId
-

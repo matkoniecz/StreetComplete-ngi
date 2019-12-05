@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2019 Tobias Zwick and contributors
+
+SPDX-License-Identifier: GPL-3.0-only
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
         android:width="96dp"
         android:height="62dp"

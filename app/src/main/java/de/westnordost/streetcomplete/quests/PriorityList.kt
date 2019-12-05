@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2019 Tobias Zwick and contributors
+//
+// SPDX-License-Identifier: GPL-3.0-only
+
 package de.westnordost.streetcomplete.quests
 
 import de.westnordost.streetcomplete.view.Item
@@ -18,4 +22,3 @@ fun Collection<Item<String>>.sortedBy(names: Iterable<String>): List<Item<String
     }
     return result
 }
-

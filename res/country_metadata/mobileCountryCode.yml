@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2019 Tobias Zwick and contributors
+#
+# SPDX-License-Identifier: GPL-3.0-only
+
 # use app/generateCountryMetadata.py to generate files used by StreetComplete
 # sources: https://en.wikipedia.org/wiki/Mobile_country_code
 # Overseas and unincorporated territories and other regions that are already

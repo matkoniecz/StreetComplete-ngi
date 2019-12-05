@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2019 Tobias Zwick and contributors
+
+SPDX-License-Identifier: GPL-3.0-only
+-->
+
 <code_scheme name="StreetComplete">
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
